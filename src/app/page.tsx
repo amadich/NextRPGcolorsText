@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <aside className="flex m-5 p-5 space-x-10 items-center justify-around">
         <Image
-          className="rounded-xl shadow-2xl shadow-yellow-200"
+          className="rounded-xl shadow-2xl shadow-blue-200"
           src={`https://i.pinimg.com/564x/71/bb/0d/71bb0d3e1c46e26e732b07afb1a69a7a.jpg`}
           width={250}
           height={250}
@@ -15,7 +15,7 @@ export default function Home() {
         />
 
 <Image
-          className="rounded-xl shadow-2xl shadow-yellow-200"
+          className="rounded-xl shadow-2xl shadow-green-200"
           src={`https://i.pinimg.com/564x/7f/d8/ea/7fd8ea6d1ce40c5e9ee037f6b73ea189.jpg`}
           width={250}
           height={250}
@@ -25,7 +25,7 @@ export default function Home() {
 
 
 <Image
-          className="rounded-xl shadow-2xl shadow-yellow-200"
+          className="rounded-xl shadow-2xl shadow-gray-500"
           src={`https://i.pinimg.com/236x/fd/6f/bc/fd6fbc3b7b28e1910273305ccde9877a.jpg`}
           width={250}
           height={250}
@@ -35,7 +35,7 @@ export default function Home() {
 
 
 <Image
-          className="rounded-xl shadow-2xl shadow-yellow-200"
+          className="rounded-xl shadow-2xl shadow-white"
           src={`https://i.pinimg.com/236x/c5/27/a5/c527a51f921f1cf59c0decdd16104268.jpg`}
           width={250}
           height={250}
